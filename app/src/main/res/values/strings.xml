@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NewProject</string>
+    <string name="title_activity_cadastrar_participante">CadastrarParticipanteActivity</string>
+
+    <string name="tema">Tema</string>
+    <string name="trilha">Trilha</string>
+    <string name="nome_do_participante">Nome do Participante</string>
+    <string name="pesquisar">Pesquisar</string>
+    <string name="github">GITHUB</string>
+</resources>
